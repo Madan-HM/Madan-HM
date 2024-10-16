@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **madan3.h.m@gmail.com**
 
-[](https://visitcount.itsvg.in/api?id=Madan-HM&icon=5&color=0)](https://visitcount.itsvg.in)
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 
