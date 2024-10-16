@@ -7,8 +7,15 @@
 
 - 📫 How to reach me **madan3.h.m@gmail.com**
 
+![](https://github-readme-stats.vercel.app/api?username=madanhm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=madanhm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madanhm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=madanhm&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
